@@ -57,10 +57,10 @@ Harness the power of **Einstein** for a transformative eLearning journey.
 
 ### Experience Moksy Live
 #### Moksy Official Site
-[May Fair](https://moksy.com/templates/einstein/)
+[Einstein](https://moksy.com/templates/einstein/)
 
 #### GitHub Live Preview
-[May Fair](https://moksy-lab.github.io/einstein/)
+[Einstein](https://moksy-lab.github.io/einstein/)
 
 ### Licensing
 Moksy proudly stands as an open-source initiative by [moksy.com](https://moksy.com), licensed under the [MIT](https://opensource.org/licenses/MIT). We, at moksy.com, reserve the right to modify the license terms for future releases.
